@@ -1,7 +1,6 @@
 <h3 align="center">Apprentice frontengineer　and An active cook</h3>
 
-<img alt="coding" width="400" align="right" src="![image](https://user-images.githubusercontent.com/91857495/226781036-2ca64aab-d997-430a-aeea-ed11faa045af.png)
-"/>
+<img alt="coding" width="400" align="right" src="https://user-images.githubusercontent.com/91857495/226781195-4bbba47b-e23e-46b9-9eaa-2cced551eaa3.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamei1204&label=Profile%20views&color=0e75b6&style=flat" alt="kamei1204" /> </p>
 
