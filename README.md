@@ -1,5 +1,8 @@
 <h3 align="center">Apprentice frontengineer　and An active cook</h3>
 
+<img alt="coding" width="400" align="right" src="![image](https://user-images.githubusercontent.com/91857495/226781036-2ca64aab-d997-430a-aeea-ed11faa045af.png)
+"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamei1204&label=Profile%20views&color=0e75b6&style=flat" alt="kamei1204" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamei1204" alt="kamei1204" /></a> </p>
